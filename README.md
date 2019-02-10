@@ -5,4 +5,5 @@ Funkcjonalności:
 - zapisywanie i odczytywanie plików
 - drukowanie
 - dwujęzyczność
+
 Instalator 
